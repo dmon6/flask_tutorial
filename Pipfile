@@ -11,6 +11,7 @@ blinker = "*"
 simplejson = "*"
 python-dotenv = "*"
 watchdog = "*"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.7"
