@@ -8,6 +8,7 @@
 - simplejson
 - python-dotenv
 - watchdog
+- flask-wtf
 
 ### Install dependencies
 ```sh
@@ -32,4 +33,5 @@ flask run
 if __name__ == 'main':
 	app.run(debug=True)
 ```
+
 
